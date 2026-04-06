@@ -53,7 +53,7 @@ gcc student_management.c -o student_management
 
 | File | Description |
 |------|--------------|
-| `main.c` | Source code |
+| `student_management.c` | Source code |
 | `data.txt` | Stores all student records (auto-created) |
 
 ---
