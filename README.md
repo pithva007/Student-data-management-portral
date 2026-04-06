@@ -71,7 +71,7 @@ gcc main.c -o student_management
 
 ## 👨‍💻 Author
 
-**Dev Patel**  
+**Khush Pithva**  
 🌐 [github.com/Pithva007](https://github.com/pithva007)
 
 
