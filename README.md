@@ -1,28 +1,28 @@
-# 🧑‍🎓 Student Data Management System (C)
+# Student Data Management System (C)
 
 A lightweight **Student Data Management System** built using **C language**.  
 This program helps store, search, edit, and manage student information efficiently using file handling.  
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👩‍💼 Admin Mode
-- ➕ Add new student records  
-- ✏️ Edit existing data  
-- ❌ Delete student records  
-- 🔍 Search student by Roll No.  
-- 📋 View all student data  
-- 📊 View statistics (sort by Roll No. or Date of Birth)
+### Admin Mode
+- Add new student records  
+- Edit existing data  
+- Delete student records  
+- Search student by Roll No.  
+- View all student data  
+- View statistics (sort by Roll No. or Date of Birth)
 
-### 🧑‍🎓 Student Mode
-- 🔍 Search for your data by Roll No.  
-- 📋 View all student data  
-- 📊 View sorted statistics  
+### Student Mode
+- Search for your data by Roll No.  
+- View all student data  
+- View sorted statistics  
 
 ---
 
-## 🔑 Access Information
+## Access Information
 
 | Mode | Description | Password |
 |------|--------------|-----------|
@@ -31,21 +31,21 @@ This program helps store, search, edit, and manage student information efficient
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
-### 🧱 1. Compile the Code
+### 1. Compile the Code
 ```bash
-gcc main.c -o student_management
+gcc student_management.c -o student_management
 ```
 
-### ▶️ 2. Run the Program
+### 2. Run the Program
 ```bash
 ./student_management
 ```
 
 
 > **Windows users:**  
-> Open `main.c` in **Code::Blocks**, **Dev C++**, or **Turbo C**, then build and run the project.  
+> Open `student_management.c` in **Code::Blocks**, **Dev C++**, or **Turbo C**, then build and run the project.  
 
 ---
 
