@@ -44,12 +44,12 @@ gcc main.c -o student_management
 ```
 
 
-> 💡 **Windows users:**  
+> **Windows users:**  
 > Open `main.c` in **Code::Blocks**, **Dev C++**, or **Turbo C**, then build and run the project.  
 
 ---
 
-## 🗂️ Files
+## Files
 
 | File | Description |
 |------|--------------|
@@ -58,7 +58,7 @@ gcc main.c -o student_management
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - Uses `system("cls")` for screen clearing (Windows).  
   → Replace with `system("clear")` if running on Linux/Mac.  
@@ -69,7 +69,7 @@ gcc main.c -o student_management
 ---
 
 
-## 👨‍💻 Author
+## Author
 
 **Khush Pithva**  
 🌐 [github.com/Pithva007](https://github.com/pithva007)
